@@ -47,6 +47,8 @@
 - [Golang.ch](https://golang.ch/)
 - [GolangBot](https://golangbot.com/)
 - [GolangNews](https://golangnews.com/)
+- [James Bowen](https://blog.jbowen.dev/) - [Github](https://github.com/jamesbo13).
+- [Alex Edwards](https://www.alexedwards.net/blog/) - [Github](https://github.com/alexedwards).
 
 
 ## 国内
