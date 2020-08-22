@@ -1,7 +1,7 @@
 # Awesome Go Blogs
 
 
-## 国外
+## English
 
 - [The Official Blog](https://blog.golang.org/)
 - [Rob Pike](https://github.com/robpike)
@@ -10,6 +10,7 @@
 - [Russ Cox](https://swtch.com/~rsc/) - [Github](https://github.com/rsc).
 - [Brad Fitzpatrick](http://bradfitz.com/) - [Github](https://github.com/bradfitz).
 - [Ian Lance Taylor](https://www.airs.com/blog/) - [Github](https://github.com/ianlancetaylor).
+- [Go Wiki Blogs](https://github.com/golang/go/wiki/Blogs) - A set of blogs dedicated to Go.
 - [Fatih Arslan](https://arslan.io/) - [Github](https://github.com/fatih/), [Medium](https://medium.com/@farslan).
 - [golangspec](https://medium.com/golangspec) - To understand Go’s specification.
 - [spf13](https://spf13.com/) - GoHugo Cobra Viper etc.. [Github](https://github.com/spf13).
