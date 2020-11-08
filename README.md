@@ -13,7 +13,7 @@
 - [Go Wiki Blogs](https://github.com/golang/go/wiki/Blogs) - A set of blogs dedicated to Go.
 - [Fatih Arslan](https://arslan.io/) - [Github](https://github.com/fatih/), [Medium](https://medium.com/@farslan).
 - [golangspec](https://medium.com/golangspec) - To understand Go’s specification.
-- [spf13](https://spf13.com/) - GoHugo Cobra Viper etc.. [Github](https://github.com/spf13).
+- [Steve Francia](https://spf13.com/) - GoHugo Cobra Viper etc.. [Github](https://github.com/spf13).
 - [Dave Cheney](https://dave.cheney.net/) - [Github](https://github.com/davecheney).
 - [William Kennedy](http://www.goinggo.net/) - GoingGo, [Github](https://github.com/goinggo).
 - [junegunn](https://junegunn.kr/) - FZF, [Github](https://github.com/junegunn).
