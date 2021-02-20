@@ -64,5 +64,5 @@
 - [面向信仰编程](https://draveness.me/) - [Go 语言设计与实现](https://draveness.me/golang/)、[Github](https://github.com/draveness)。
 - [鸟窝](https://colobu.com/)
 - [chai2010](https://chai2010.cn/) - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)、[Github](https://github.com/chai2010/)。
-- [Jinzhu] - [Github](https://github.com/jinzhu)。
-- [Qiang Xue] - [Github](https://github.com/qiangxue)。
+- Jinzhu - [Github](https://github.com/jinzhu)。
+- Qiang Xue - [Github](https://github.com/qiangxue)。
