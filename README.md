@@ -52,6 +52,8 @@
 - [mattn](https://mattn.kaoriya.net/) - [Github](https://github.com/mattn).
 - [Matt Layher](https://mdlayher.com/blog/) - [Github](https://github.com/mdlayher).
 - [Gary Burd](https://gary.burd.info/) - [Github](https://github.com/garyburd).
+- [Go Ahead](https://jbrandhorst.com/) - [Github](https://github.com/johanbrandhorst).
+- [Learning the Go Programming Language](https://medium.com/learning-the-go-programming-language) - [Github](https://github.com/vladimirvivien/).
 
 
 ## 国内
